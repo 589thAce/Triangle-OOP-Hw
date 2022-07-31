@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Triangle.h" // Needed for Triangle class
-#include "Triangle.cpp"
 using namespace std;
 
 int main()
